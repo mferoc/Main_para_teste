@@ -17,7 +17,7 @@ void	ft_sort_int_tab(int *tab, int size);
 int main() {
 	int vet[3] = {2,3,1};
     int size = 3; //vet size
-	ft_sort_int_tab(x, 3);
+	ft_sort_int_tab(vet, 3);
 
 	int i;
     for(i = 0; i < size; i++) {
